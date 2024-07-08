@@ -1,6 +1,5 @@
 
-오늘의 ‘나’는 과거의 내가 쌓여서 만들어 진 것.
-내일의 ‘나’는 오늘의 내가 모여서 만들어 가는 것
+#### It's better to look ahead and prepare, then to look back and regret 🥹✨</span>
 
 ## Hello 👋 I'm Trying HJ 
 
