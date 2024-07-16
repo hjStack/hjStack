@@ -20,9 +20,10 @@ https://velog.io/@minnie55/posts
 
 
 ---
-#### 노력 기록하기
+#### 노력 기록하기 - 느리지만 천천히 발전하도록 .. ! 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjStack)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjStack)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--- https://simpleicons.org/?q=css --->
 
