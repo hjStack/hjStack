@@ -23,6 +23,8 @@ https://velog.io/@minnie55/posts
 #### 노력 기록하기 - 느리지만 천천히 발전하도록 .. ! 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjStack)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjStack)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minnie149778)](https://solved.ac/minnie149778)
+
 
 
 <!--- https://simpleicons.org/?q=css --->
