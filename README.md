@@ -16,13 +16,12 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 
------
-#### 기술 블로그 📋
-https://velog.io/@minnie55/posts
-
+<!--- -----  ---> 
+<!--- #### 기술 블로그 📋
+https://velog.io/@minnie55/posts --->
 
 ---
-#### 노력 기록하기 - 느리지만 천천히 발전하도록 .. ! 
+#### 노력 기록하기 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjStack)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjStack)](https://github.com/anuraghazra/github-readme-stats)
 
