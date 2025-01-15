@@ -43,7 +43,9 @@
 
 <!--- -----  ---> 
 <!--- #### 기술 블로그 📋
-https://velog.io/@minnie55/posts --->
+https://velog.io/@minnie55/posts 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjPassion)](https://solved.ac/hjPassion/)
+--->
 
 <!--- ---
 #### 노력 기록하기 
