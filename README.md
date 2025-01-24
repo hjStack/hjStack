@@ -31,9 +31,6 @@
 <br/>
 <br/ >
     
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5D8CA,10:E5D8CA,30:E5D8CA,75:E5D8CA,100:E5D8CA&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
