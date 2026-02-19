@@ -29,10 +29,9 @@
      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
      <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 
-     
 <br/>
 <br />
-<img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hj_0209" />
+<!-- <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hj_0209" /> -->
 <br/>
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5D8CA,10:E5D8CA,30:E5D8CA,75:E5D8CA,100:E5D8CA&height=100&section=footer&text=&fontSize=0" width="100%"/>
